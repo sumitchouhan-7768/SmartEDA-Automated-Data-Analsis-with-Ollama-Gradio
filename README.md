@@ -1,5 +1,3 @@
----
-
 # SmartEDA: Automated Data Analysis with Ollama and Gradio
 
 **SmartEDA** is an automated data analysis tool that leverages the power of **Ollama** (a language model) and **Gradio** (a user interface library) to provide an intuitive and interactive way to analyze datasets. This project is designed to simplify exploratory data analysis (EDA) by automating common tasks and enabling natural language interactions with your data.
